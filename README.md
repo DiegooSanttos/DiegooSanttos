@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Diego Santos, tenho 25 anos e sou natural da Bahia. Concluí o ensino Médio em São Paulo, com o curso técnico em Full Stack. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia.
+Me chamo Diego Santos, tenho 25 anos. Sou um entusiasta da tecnologia e desenvolvedor de software em início de carreira. Concluí minha formação na área de tecnologia e atualmente estou focado em aprimorar minhas habilidades e construir projetos inovadores. Sou apaixonado por encontrar soluções criativas para problemas complexos e estou sempre em busca de novos desafios para expandir meu conhecimento.
 
 <p align="left">
     
